@@ -1,5 +1,5 @@
 {
-  "credit": "𝐀𝐋𝐓𝐀𝐅 𝐌𝐎𝐃𝐒❤️",
+  "credit": "MR. NoOB",
   "show_dialog": true,
   "title": "🚀 Update Available",
   "subtitle": "✨ New Version Release ✨",
